@@ -57,7 +57,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.BorderSizePixel = 0
 TextLabel.Size = UDim2.new(0, 274, 0, 34)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "Auto Rap Battle VOTE"
+TextLabel.Text = "Admin Vote Panel"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 20.000
 
@@ -68,7 +68,7 @@ TextLabel_2.BorderSizePixel = 0
 TextLabel_2.Position = UDim2.new(0.0437955186, 0, 0.875, 0)
 TextLabel_2.Size = UDim2.new(0, 80, 0, 27)
 TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "Made by Sizzor"
+TextLabel_2.Text = "Made by sizzor"
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 14.000
 
